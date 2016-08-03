@@ -1,0 +1,12 @@
+{
+  "name": "BITS WILP lecture schedule finder",
+  "version": "1.0",
+  "description": "Extension that highlights lecture schedules.",
+  "author": "Amith",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"],
+  "manifest_version": 2
+}
